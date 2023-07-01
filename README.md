@@ -23,8 +23,8 @@ pip install Flask SQLAlchemy requests pandas fpdf streamlit streamlit_modal
 
 ### Cómo ejecutar
 
-1. Ejecute `server.py` para iniciar el servidor Flask. Este servidor se iniciará en http://localhost:5000
-2. Ejecute `client.py` para iniciar la aplicación Streamlit. Esta aplicación se conectará al servidor Flask para realizar todas las operaciones CRUD en la base de datos.
+1. Ejecute `server.py` con el comando `python server.py`para iniciar el servidor Flask. Este servidor se iniciará en http://localhost:5000
+2. Ejecute `client.py` con el comando `streamlit run client.py` para iniciar la aplicación Streamlit. Esta aplicación se conectará al servidor Flask para realizar todas las operaciones CRUD en la base de datos.
 
 ### Funcionalidades
 
