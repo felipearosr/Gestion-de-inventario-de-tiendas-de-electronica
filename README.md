@@ -1,8 +1,6 @@
-# README
-
 ## Gestión de inventario de tiendas de electrónica 
 
-Este código es un sistema de gestión de inventario para tiendas de electrónica utilizando Flask para el servidor backend y Streamlit para la interfaz de usuario.
+Este código es un sistema de gestión de inventario para tiendas de electrónica utilizando Flask para el servidor backend y Streamlit para la interfaz de usuario. Para el ramo Arquitecturade Software.
 
 ### Prerrequisitos
 
